@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(stock-photo-engineers-are-helping-to-design-work-on-blueprints-and-collaborate-on-structural-analyzing-of-1724713963.jpg);
+    background-image: url(./jaredd-craig-HH4WBGNyltc-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center ;
@@ -51,4 +51,12 @@ th, td{
     border: none;
     padding: 5px 10px;
     cursor: pointer;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #333;
+    color: white;;
 }
