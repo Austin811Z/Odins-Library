@@ -1,1 +1,1 @@
-Project [Library](https://www.theodinproject.com/lessons/node-path-javascript-library)
+Odin's Project [Library](https://www.theodinproject.com/lessons/node-path-javascript-library)
